@@ -40,5 +40,5 @@
 4. Pull request oluşturma
 5. jira development alanından branch, commit ve pull request bilgilerinin görülmesi
 # Code Review, Merge Conflict ve Merge Süreci
-1. Code review
+1. Code review 
 
