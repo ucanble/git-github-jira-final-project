@@ -1,3 +1,9 @@
-from tasks import list_tasks
+from tasks import list_tasks, add_task
 
-print(list_tasks()) # görev listesini çağırarak mevcut görevleri terminalde görüntüler
+add_task("Github ve jira entegrasonunu tamamla")
+add_task("final proje dokümantasyonunu hazırla")
+
+for task in list_tasks():
+    status = "tamamlandı" if task["completed"] else "bekliyor"
+    print(f"{task["id"]}. {task["title"]} - {status}")
+

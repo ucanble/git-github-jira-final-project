@@ -7,3 +7,7 @@ def list_tasks():
     """
     return tasks
 
+def add_task(title):
+    task = {"id": len(tasks) + 1, "title": title, "completed": False}
+    tasks.append(task)
+    return task
