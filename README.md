@@ -25,6 +25,10 @@
 4. uygulamayı çalıştır: python main.py
 # Commit, Push ve Pull Request
 1. Değişikliklerin stage edilmesi
-
-
+2. commit oluşturma 
+3. feature branch'i github'a gönder 
+4. Pull request oluşturma
+5. jira development alanından branch, commit ve pull request bilgilerinin görülmesi
+# Code Review, Merge Conflict ve Merge Süreci
+1. Code review
 
