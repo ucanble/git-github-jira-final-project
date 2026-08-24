@@ -7,4 +7,24 @@
 6. git repo başlatma
 7. ana branch'i main olarak ayarla
 8. git tarafından takip edilmeyen dosyaları stage'e al
+9. ilk commit oluşturulması
+10. github repo oluştur
+11. local ve github repo bağlama
+12. github repoyu origin olarak ekle
+13. projeyi github'a gönder
+14. Yeni repoyu jira entegrasyonuna ekle
+# Jira Space, Backlog ve Sprint'in Hazırlanması
+1. Jira Space Oluşturma
+2. Proje İşlerini Oluşturma
+3. Backlog oluşturma
+4. Sprint oluşturma ve başlatma
+# Jira Issue için Feature Branch Açılması ve Kod Geliştirme
+1. Issue seçme ve in progress'e taşıma
+2. Yeni branch oluşturma
+3. kod geliştirme: task.py ve main.py güncelle
+4. uygulamayı çalıştır: python main.py
+# Commit, Push ve Pull Request
+1. Değişikliklerin stage edilmesi
+
+
 
