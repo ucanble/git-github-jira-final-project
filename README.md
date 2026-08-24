@@ -33,3 +33,7 @@
 1. Code review
 2. conflict oluştur
 3. merge conflict 
+# Jira Issue, Sprint ve Projenin Tamamlanması
+1. Pull requesti jiradan gözlemleme
+2. Jira issue tamamlama
+3. sprint durumu inceleme ve kapatma
